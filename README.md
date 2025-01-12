@@ -1,4 +1,4 @@
-##About the Project
+## About the Project
 
 This repository implements 3 tasks.
 
